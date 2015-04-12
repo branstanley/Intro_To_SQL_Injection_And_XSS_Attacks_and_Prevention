@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Security", "Security\Security.csproj", "{BA96E4C3-4F47-4E32-B5B9-8D68A53EC3FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing_Project", "Testing_Project\Testing_Project.csproj", "{F5EF6AE8-0216-4782-8D01-E909D818872A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{278A8F40-2A8E-432A-A3D7-C037F4FF0496}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://branstanley2.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Security\\Security.csproj
+		SccProjectName1 = Security
+		SccLocalPath1 = Security
+		SccProjectUniqueName2 = Testing_Project\\Testing_Project.csproj
+		SccProjectName2 = Testing_Project
+		SccLocalPath2 = Testing_Project
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA96E4C3-4F47-4E32-B5B9-8D68A53EC3FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA96E4C3-4F47-4E32-B5B9-8D68A53EC3FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA96E4C3-4F47-4E32-B5B9-8D68A53EC3FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA96E4C3-4F47-4E32-B5B9-8D68A53EC3FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5EF6AE8-0216-4782-8D01-E909D818872A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5EF6AE8-0216-4782-8D01-E909D818872A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5EF6AE8-0216-4782-8D01-E909D818872A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5EF6AE8-0216-4782-8D01-E909D818872A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

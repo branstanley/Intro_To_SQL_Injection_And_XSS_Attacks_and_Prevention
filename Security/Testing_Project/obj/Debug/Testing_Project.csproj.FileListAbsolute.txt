@@ -1,0 +1,17 @@
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Testing_Project\bin\Debug\Testing_Project.dll
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Testing_Project\bin\Debug\Testing_Project.pdb
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Testing_Project\bin\Debug\Mono.Security.dll
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Testing_Project\bin\Debug\Npgsql.dll
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Testing_Project\bin\Debug\WebDriver.dll
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Testing_Project\bin\Debug\Npgsql.xml
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Testing_Project\bin\Debug\WebDriver.xml
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Testing_Project\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Testing_Project\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Testing_Project\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Testing_Project\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Testing_Project\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Testing_Project\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Testing_Project\obj\Debug\Testing_Project.dll
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Testing_Project\obj\Debug\Testing_Project.pdb
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Testing_Project\bin\Debug\chromedriver.exe
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Testing_Project\obj\Debug\Testing_Project.csprojResolveAssemblyReference.cache

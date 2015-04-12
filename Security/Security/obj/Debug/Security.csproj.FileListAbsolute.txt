@@ -1,0 +1,15 @@
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Security\bin\Security.dll.config
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Security\bin\Security.dll
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Security\bin\Security.pdb
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Security\bin\Mono.Security.dll
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Security\bin\Npgsql.dll
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Security\bin\Npgsql.xml
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Security\bin\de\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Security\bin\es\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Security\bin\fi\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Security\bin\fr\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Security\bin\ja\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Security\bin\zh-CN\Npgsql.resources.dll
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Security\obj\Debug\Security.dll
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Security\obj\Debug\Security.pdb
+C:\Users\Outsider\Source\Workspaces\Project4\Security\Security\obj\Debug\Security.csprojResolveAssemblyReference.cache
